@@ -1,0 +1,14 @@
+node_modules/
+
+.env
+
+# File log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# File sistem macOS
+.DS_Store
+
+dist/
