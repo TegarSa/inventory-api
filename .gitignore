@@ -1,14 +1,11 @@
+# Abaikan folder node_modules
 node_modules/
 
+# Tambahan umum
 .env
-
-# File log
+.DS_Store
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# File sistem macOS
-.DS_Store
-
 dist/
